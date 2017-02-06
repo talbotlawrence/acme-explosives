@@ -1,0 +1,39 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 0,
+            "category": 1,
+            "name": "corporate-domestic",
+            "description": "Fireworks intended to sell to businesses in the United States"
+        },
+        {
+            "id": 0,
+            "category": 2,
+            "name": "corporate-international",
+            "description": "Fireworks intended to sell to businesses in foreign countries"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "personal",
+            "description": "Explosives intended to clear rock on my property."
+        },{
+            "id": 1,
+            "category": 1,
+            "name": "corporate-domestic",
+            "description": "Explosives intended to sell to businesses in the United States"
+        },
+        {
+            "id": 1,
+            "category": 2,
+            "name": "corporate-international",
+            "description": "Explosives intended to sell to businesses in foreign countries"
+        }
+    ]
+}
